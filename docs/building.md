@@ -65,3 +65,5 @@ If you don't know how to do that, here's how:
 - Windows error code 127.
 
   Add an antivirus exclusion for the repository, try rebuilding, and see if it works this time.
+  
+  NEEDED this for a fork
